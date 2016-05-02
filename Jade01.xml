@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="115" inline="true" x="-136" y="-66">
+  <block type="controls_repeat" id="115" inline="true" x="-60" y="-75">
     <value name="TIMES">
       <block type="math_number" id="132">
         <field name="NUM">Infinity</field>
