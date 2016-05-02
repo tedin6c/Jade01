@@ -1,29 +1,38 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_forward" id="1" x="8" y="27">
-    <next>
-      <block type="movement_right" id="2">
+  <block type="controls_repeat" id="115" inline="true" x="-146" y="-25">
+    <value name="TIMES">
+      <block type="math_number" id="132">
+        <field name="NUM">Infinity</field>
+      </block>
+    </value>
+    <statement name="DO">
+      <block type="movement_forward" id="1">
         <next>
-          <block type="movement_reverse" id="49">
+          <block type="movement_right" id="2">
             <next>
-              <block type="movement_forward" id="7">
+              <block type="movement_reverse" id="49">
                 <next>
-                  <block type="movement_right" id="8">
+                  <block type="movement_forward" id="7">
                     <next>
-                      <block type="movement_forward" id="9">
+                      <block type="movement_right" id="8">
                         <next>
-                          <block type="movement_right" id="10">
+                          <block type="movement_forward" id="9">
                             <next>
-                              <block type="movement_forward" id="11">
+                              <block type="movement_right" id="10">
                                 <next>
-                                  <block type="movement_forward" id="12">
+                                  <block type="movement_forward" id="11">
                                     <next>
-                                      <block type="movement_right" id="13">
+                                      <block type="movement_forward" id="12">
                                         <next>
-                                          <block type="movement_forward" id="14">
+                                          <block type="movement_right" id="13">
                                             <next>
-                                              <block type="movement_forward" id="15">
+                                              <block type="movement_forward" id="14">
                                                 <next>
-                                                  <block type="movement_forward" id="16"></block>
+                                                  <block type="movement_forward" id="15">
+                                                    <next>
+                                                      <block type="movement_forward" id="16"></block>
+                                                    </next>
+                                                  </block>
                                                 </next>
                                               </block>
                                             </next>
@@ -46,7 +55,7 @@
           </block>
         </next>
       </block>
-    </next>
+    </statement>
   </block>
   <block type="oled_cleardisplay" id="17" x="-47" y="772"></block>
 </xml>
