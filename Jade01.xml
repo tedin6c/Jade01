@@ -3,33 +3,33 @@
     <next>
       <block type="movement_right" id="2">
         <next>
-          <block type="movement_forward" id="13">
+          <block type="movement_forward" id="3">
             <next>
-              <block type="movement_left" id="23">
+              <block type="movement_left" id="4">
                 <next>
-                  <block type="movement_forward" id="43">
+                  <block type="movement_forward" id="5">
                     <next>
-                      <block type="movement_left" id="53">
+                      <block type="movement_left" id="6">
                         <next>
-                          <block type="movement_forward" id="63">
+                          <block type="movement_forward" id="7">
                             <next>
-                              <block type="movement_right" id="73">
+                              <block type="movement_right" id="8">
                                 <next>
-                                  <block type="movement_forward" id="83">
+                                  <block type="movement_forward" id="9">
                                     <next>
-                                      <block type="movement_right" id="93">
+                                      <block type="movement_right" id="10">
                                         <next>
-                                          <block type="movement_forward" id="103">
+                                          <block type="movement_forward" id="11">
                                             <next>
-                                              <block type="movement_forward" id="113">
+                                              <block type="movement_forward" id="12">
                                                 <next>
-                                                  <block type="movement_right" id="123">
+                                                  <block type="movement_right" id="13">
                                                     <next>
-                                                      <block type="movement_forward" id="133">
+                                                      <block type="movement_forward" id="14">
                                                         <next>
-                                                          <block type="movement_forward" id="143">
+                                                          <block type="movement_forward" id="15">
                                                             <next>
-                                                              <block type="movement_forward" id="153"></block>
+                                                              <block type="movement_forward" id="16"></block>
                                                             </next>
                                                           </block>
                                                         </next>
@@ -60,5 +60,5 @@
       </block>
     </next>
   </block>
-  <block type="oled_cleardisplay" id="3" x="-47" y="772"></block>
+  <block type="oled_cleardisplay" id="17" x="-47" y="772"></block>
 </xml>
