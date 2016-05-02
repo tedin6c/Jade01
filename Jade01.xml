@@ -3,39 +3,27 @@
     <next>
       <block type="movement_right" id="2">
         <next>
-          <block type="movement_forward" id="3">
+          <block type="movement_reverse" id="49">
             <next>
-              <block type="movement_left" id="4">
+              <block type="movement_forward" id="7">
                 <next>
-                  <block type="movement_forward" id="5">
+                  <block type="movement_right" id="8">
                     <next>
-                      <block type="movement_left" id="6">
+                      <block type="movement_forward" id="9">
                         <next>
-                          <block type="movement_forward" id="7">
+                          <block type="movement_right" id="10">
                             <next>
-                              <block type="movement_right" id="8">
+                              <block type="movement_forward" id="11">
                                 <next>
-                                  <block type="movement_forward" id="9">
+                                  <block type="movement_forward" id="12">
                                     <next>
-                                      <block type="movement_right" id="10">
+                                      <block type="movement_right" id="13">
                                         <next>
-                                          <block type="movement_forward" id="11">
+                                          <block type="movement_forward" id="14">
                                             <next>
-                                              <block type="movement_forward" id="12">
+                                              <block type="movement_forward" id="15">
                                                 <next>
-                                                  <block type="movement_right" id="13">
-                                                    <next>
-                                                      <block type="movement_forward" id="14">
-                                                        <next>
-                                                          <block type="movement_forward" id="15">
-                                                            <next>
-                                                              <block type="movement_forward" id="16"></block>
-                                                            </next>
-                                                          </block>
-                                                        </next>
-                                                      </block>
-                                                    </next>
-                                                  </block>
+                                                  <block type="movement_forward" id="16"></block>
                                                 </next>
                                               </block>
                                             </next>
